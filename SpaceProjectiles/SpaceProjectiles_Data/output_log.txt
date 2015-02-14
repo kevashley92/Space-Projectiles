@@ -1,0 +1,35 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.2049]
+    Renderer: NVIDIA GeForce GT 555M   
+    Vendor:   NVIDIA
+    VRAM:     3019 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kevin Ashley\Documents\SpaceProjectiles\SpaceProjectiles_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kevin Ashley\Documents\SpaceProjectiles\SpaceProjectiles_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kevin Ashley\Documents\SpaceProjectiles\SpaceProjectiles_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kevin Ashley\Documents\SpaceProjectiles\SpaceProjectiles_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+desktop: 1600x900 40Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+UnloadTime: 0.563614 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 0.679419 ms (FindLiveObjects: 0.041092 ms CreateObjectMapping: 0.007004 ms MarkObjects: 0.118139 ms  DeleteObjects: 0.007004 ms)
+
+UnloadTime: 0.369361 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 239.
+Total: 4.560284 ms (FindLiveObjects: 0.008405 ms CreateObjectMapping: 0.009806 ms MarkObjects: 0.139619 ms  DeleteObjects: 3.892071 ms)
+
+UnloadTime: 0.442673 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 221.
+Total: 6.836224 ms (FindLiveObjects: 0.009339 ms CreateObjectMapping: 0.007938 ms MarkObjects: 0.162967 ms  DeleteObjects: 6.178284 ms)
+

@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Controller.cs">
+    <Files>
+      <File FileName="SpaceProjectiles.sln" Line="40" Column="1" />
+      <File FileName="Assets\Scripts\UI.cs" Line="81" Column="6" />
+      <File FileName="Assets\Scripts\BattleData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BattleLoad.cs" Line="183" Column="2" />
+      <File FileName="Assets\Scripts\UI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HitMe.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="153" Column="8" />
+      <File FileName="Assets\Scripts\StudentModel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Question.cs" Line="103" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
